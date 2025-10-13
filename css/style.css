@@ -76,41 +76,37 @@
 }
 
 .bowie2 {
-    height: 200px;
-    width: 200px;
+    height: 65px;
+    width: 65px;
     display: block;
-    margin-left: 60px;
-    margin-right: auto;
+    margin-left: 25px;
+    margin-right: 25px;
     border-radius: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .bowie1 {
-    height: 200px;
-    width: 200px;
+    height: 65px;
+    width: 65px;
     display: block;
-    margin-left: 60px;
-    margin-right: auto;
+    margin-left: 25px;
+    margin-right: 25px;
     border-radius: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .bowie4 {
-    height: 200px;
-    width: 200px;
+    height: 65px;
+    width: 65px;
     display: block;
-    margin-left: 60px;
-    margin-right: auto;
+    margin-left: 25px;
+    margin-right: 25px;
     border-radius: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .bowie3 {
-    height: 200px;
-    width: 200px;
+    height: 65px;
+    width: 65px;
     display: block;
-    margin-left: 60px;
-    margin-right: auto;
+    margin-left: 25px;
+    margin-right: 25px;
     border-radius: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
