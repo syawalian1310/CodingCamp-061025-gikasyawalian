@@ -17,21 +17,22 @@
 <body>
 
     <!-- Header Content -->
-    <header class="main-header">
+    <header>
 
         <!-- Logo Icon -->
         <div><img src="brownie.png" class="logo-icon" /></div>
+        <h1>BROWNIE HAVEN</h1>
 
         <!-- Navigation Menu -->
-        <details>
-            <summary class="menu-icon">☰</summary>
-            <nav class="menu-content">
-                <a class="item" href="#home">Home</a>
-                <a class="item" href="#our-profile">Our Profile</a>
-                <a class="item" href="#portfolio">Portfolio</a>
-                <a class="item" href="#message-us">Message Us</a>
-            </nav>
-        </details>
+        <div>
+            <button onclick="menu.hidden^=1">☰</button>
+            <ul id="menu" hidden>
+                <li><a class="item" href="#home">Home</a></li> 
+                <li><a class="item" href="#our-profile">Our Profile</a></li>
+                <li><a class="item" href="#portfolio">Portfolio</a></li>
+                <li><a class="item" href="#message-us">Message Us</a></li> 
+            </ul>
+        </div>
 
     </header>
 

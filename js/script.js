@@ -1,6 +1,6 @@
 console.log("Welcome to Brownie Heaven!");
 
-greetUser();
+// greetUser();
 
 function greetUser() {
     let userName = prompt("Please enter your name:");
